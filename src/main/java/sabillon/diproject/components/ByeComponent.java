@@ -12,4 +12,8 @@ public class ByeComponent {
 		log.info("Bye component initialized");
 	}
 
+	public void sayGoodBye() {
+		log.info("Bye dude!");
+	}
+
 }
